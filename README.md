@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0049AB&height=200&section=header&text=Hi%20World%20👋🏻%20,%20I'm%20Arya%20Tsany%20Kuncara%20!&fontSize=40&fontColor=ffffff&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=200&section=header&text=Hi%20World%20👋🏻%20,%20I'm%20Arya%20Tsany%20Kuncara%20!&fontSize=40&fontColor=ffffff&fontAlignY=35" width="100%"/>
 </div>
 <div align="center" style="margin-top: -50px;">
 <img src="https://github.com/aryaTsanyy.png?size=200" width="160" height="160" style="border-radius: 50%; border: 5px solid #ffffff; box-shadow: 0px 5px 15px rgba(0,0,0,0.15); position: relative; z-index: 2;">
@@ -85,4 +85,29 @@ Here are a few selected projects I have worked on:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryaTsanyy&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryaTsanyy&locale=en&hide_title=false&layout=compact&card_width=390&langs_count=5&theme=radical&hide_border=false" height="200" alt="languages graph"  />
+</div>
+
+---
+
+### 🎧 Vibe Check / On Repeat
+
+My current coding jams and daily drivers:
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=94xy311k4jtklnp21gmst2nnm&count=3&background_color=0f1c2e&title_color=ffffff&text_color=ffffff&icon_color=1db954" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aryaTsanyy/aryaTsanyy/output/snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=100&section=footer" width="100%"/>
+  </p>
 </div>

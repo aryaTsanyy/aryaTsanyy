@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0049AB&height=200&section=header&text=Hi%20World%20👋🏻%20,%20I'm%20Arya Tsany Kuncara%20!&fontSize=40&fontColor=ffffff&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0049AB&height=200&section=header&text=Hi%20World%20👋🏻%20,%20I'm%20Arya%20Tsany%20Kuncara%20!&fontSize=40&fontColor=ffffff&fontAlignY=35" width="100%"/>
 </div>
 <div align="center" style="margin-top: -50px;">
 <img src="https://github.com/aryaTsanyy.png?size=200" width="160" height="160" style="border-radius: 50%; border: 5px solid #ffffff; box-shadow: 0px 5px 15px rgba(0,0,0,0.15); position: relative; z-index: 2;">
